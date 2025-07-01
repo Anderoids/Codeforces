@@ -1,6 +1,6 @@
 #  Codeforces Solutions in Java
 
-Welcome to my **Codeforces Solutions Repository**! 🧠📘  
+Welcome to my **Codeforces Solutions Repository**! 
 This repository contains my accepted solutions to problems from [Codeforces](https://codeforces.com/) written in **Java**.
 
 ---
